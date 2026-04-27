@@ -1,0 +1,4 @@
+bunx lint-staged
+bun run typecheck
+bun run fallow
+bun run varlock scan
